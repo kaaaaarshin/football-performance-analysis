@@ -6,6 +6,22 @@ The project combines data ingestion, feature engineering, unsupervised clusterin
 
 ---
 
+## 🖥️ Application
+
+### Player Comparison
+
+Compare two players across key performance metrics, roles, clusters, and a radar-based performance profile.
+
+![Player Comparison](screenshots/player-comparison.png)
+
+### Player Search & Similarity
+
+Search the player database and retrieve statistically similar players using the similarity engine.
+
+![Player Search and Similarity](screenshots/player-similarity.png)
+
+---
+
 ## 🚀 Features
 
 - ⚽ Player performance profiling
