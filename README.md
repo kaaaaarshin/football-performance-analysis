@@ -10,7 +10,7 @@ The project combines data ingestion, feature engineering, unsupervised clusterin
 
 - ⚽ Player performance profiling
 - 🔎 Player search
-- 📊 Player statistics dashboard
+- 📊 Player statistics
 - 🧩 K-Means player clustering
 - 🏷️ Player role / archetype discovery
 - 🤖 SVM-based role classification
@@ -24,8 +24,6 @@ The project combines data ingestion, feature engineering, unsupervised clusterin
 ---
 
 ## 🧠 Machine Learning Pipeline
-
-The system processes StatsBomb football event data into player-level performance profiles.
 
 ```text
 StatsBomb Open Data
